@@ -25,10 +25,10 @@ git clone https://github.com/danilamblia/scaling-octo-happiness
 cd scaling-octo-happiness/
 ```
 
-**FOR EDUCATIONAL PURPOSES ONLY**
-
 **MAKE OR MOVE YOUR FILE password.txt HERE!**
 
 ```bash
 sudo python3 scaling-octo-happiness.py
 ```
+
+**FOR EDUCATIONAL PURPOSES ONLY**
