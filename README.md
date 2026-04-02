@@ -1,6 +1,6 @@
 # scaling-octo-happiness
 
-## Wi-Fi brute force | For educational purposes only!
+## Wi-Fi brute force | *For educational purposes only*!
 
 I had reset my Wi-Fi router and then found that the factory sticker was destroyed. This Python script helps me determine the correct last digit of the password.
 
