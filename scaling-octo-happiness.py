@@ -28,7 +28,8 @@ def test_password(ssid, password):
         return True
     return False
 
-# using:
+# usage:
+
 ssid = input("Wi-Fi name: ")
 with open("passwords.txt", "r") as f:
     for pwd in f:
