@@ -27,7 +27,7 @@ git clone https://github.com/danilamblia/scaling-octo-happiness
 cd scaling-octo-happiness/
 ```
 
-**MAKE OR MOVE YOUR FILE HERE!**
+**MAKE OR MOVE YOUR FILE password.txt HERE!**
 
 ```bash
 sudo python3 scaling-octo-happiness.py
