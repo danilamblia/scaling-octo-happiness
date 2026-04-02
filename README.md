@@ -4,8 +4,6 @@
 
 I had reset my Wi-Fi router and then found that the factory sticker was destroyed. This Python script helps me determine the correct last digit of the password.
 
-![example](https://github.com/danilamblia/scaling-octo-happiness/blob/main/scsh2134.png)
-
 To use the script, you need a `passwords.txt` file that contains a variety of passwords.
 
 ## Requirements
