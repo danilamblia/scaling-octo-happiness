@@ -1,6 +1,6 @@
 # scaling-octo-happiness
 
-## Wi-Fi brute force
+## Wi-Fi brute force | for educational purposes only!
 
 I had reset my Wi-Fi router and then found that the factory sticker was destroyed. This Python script helps me determine the correct last digit of the password.
 
@@ -24,6 +24,8 @@ seq 0 10 > passwords.txt
 git clone https://github.com/danilamblia/scaling-octo-happiness
 cd scaling-octo-happiness/
 ```
+
+**FOR EDUCATIONAL PURPOSES ONLY**
 
 **MAKE OR MOVE YOUR FILE password.txt HERE!**
 
